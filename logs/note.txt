@@ -1,0 +1,3 @@
+28/3: 
+    Send mail + register :
+Install phpmailer to https://github.com/PHPMailer/PHPMailer then go to config to create HOST definitions (taken from password and gmail in the application password security section). Add use library and include autoload and Code 54 -> 95 at register/index.php
