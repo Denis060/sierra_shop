@@ -84,7 +84,7 @@ This is the path to the database file for you to download: [`/admin/database/***
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'chikoi');
+define('DB_NAME', 'db_sierrashop');
 ```
 
 ### 5.2 Edit .htaccess
@@ -127,8 +127,8 @@ Path: [`/lib/config/sendmail.php`](https://github.com/TanHongIT/new-mvc-shop/tre
 
 ```
 user :
-    username: testna      | email: test@gmail.com        | password: 123456789
-    username: tanhongitii | email: meowwww@gmail.com.com | password: 123456789
+    username:       | email: test@gmail.com        | password: 123456789
+    username:       | email: meowwww@gmail.com.com | password: 123456789
 Mod :
     username: eyteyt      | email: moderator@gmail.com   | password: 12345678
 
